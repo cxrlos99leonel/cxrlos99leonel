@@ -32,6 +32,10 @@
 
 ###
 
+![Snake animation](https://github.com/cxrlos99leonel/cxrlos99leonel/blob/output/github-contribution-grid-snake.svg)
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31rwxoh3art5udrr3icytavyp35a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rwxoh3art5udrr3icytavyp35a&count=5&unique=false" alt="Spotify recently played"  />
